@@ -73,3 +73,5 @@
 * **React_step_36** - Созданы АС при помощи createAsyncThunk
 * **React_step_37** - Созданы адаптеры с помощью createEntityAdapter
 * **React_step_38** - Применили RTK Query для работы с героями
+
+Конец списка
